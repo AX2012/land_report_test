@@ -1,0 +1,14 @@
+{
+  "report_balance": {
+    "data": [
+      {
+        "fieldid": "1",
+        "fielddata": 162500
+      },
+      {
+       "fieldid": "2",
+        "fielddata": 165500
+      }
+    ]
+  }
+}
