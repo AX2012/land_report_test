@@ -1,36 +1,111 @@
 [{
-     name: 'CW',
-        data: [
-           
-            { x: 99, y: 78.2, z: 0, name: 'UK', country: 'United Kingdom', field_num: 'test', color : '#ffeda0 ' },
-            { x: 69.2, y: 57.6, z: 0, name: 'IT', country: 'Italy', field_num: 'test',  color : '#ffeda0 ' },
-            { x: 68.6, y: 20, z: 0, name: 'RU', country: 'Russia', field_num: 'test', color : '#BF0B23 ' },
-            { x: 10.5, y: 126.4, z: 0, name: 'US', country: 'United States', field_num: 'test', color : '#2ca25f ' }, 
-            { x: 63.4, y: 51.8, z: 0, name: 'PT', country: 'Portugal', field_num: 'test',  color : '#ffeda0 ' }
+        "name ": 'CW',
+        "data": [
+
+            {
+                "x": 99,
+                "y": 78.2,
+                "z": 0,
+                "name": 'UK',
+                "country": 'United Kingdom',
+                "field_num": 'test',
+                "color": '#ffeda0 '
+            },
+            {
+                "x": 69.2,
+                "y": 57.6,
+                "z": 0,
+                "name": 'IT',
+                "country": 'Italy',
+                "field_num": 'test',
+                "color": '#ffeda0 '
+            },
+            {
+                "x": 68.6,
+                "y": 20,
+                "z": 0,
+                "name": 'RU',
+                "country": 'Russia',
+                "field_num": 'test',
+                "color": '#BF0B23 '
+            },
+            {
+                "x": 10.5,
+                "y": 126.4,
+                "z": 0,
+                "name": 'US',
+                "country": 'United States',
+                "field_num": 'test',
+                "color": '#2ca25f '
+            },
+            {
+                "x": 63.4,
+                "y": 51.8,
+                "z": 0,
+                "name": 'PT',
+                "country": 'Portugal',
+                "field_num": 'test',
+                "color": '#ffeda0 '
+            }
         ],
-        colorByPoint: false
+        "colorByPoint": false
     },
     {
-         name: 'CV',
-        data: [  
-            { x: 80.8, y: 91.5, z: 0, name: 'BE', country: 'Finland' , field_num: 'test'},
-            { x: 65.4, y: 50.8, z: 0, name: 'HU', country: 'Hungary', field_num: 'test' } 
-           
+        "name": 'CV',
+        "data": [{
+                "x": 80.8,
+                "y": 91.5,
+                "z": 0,
+                "name": 'BE',
+                "country": 'Finland',
+                "field_num": 'test'
+            },
+            {
+                "x": 65.4,
+                "y": 50.8,
+                "z": 0,
+                "name": 'HU',
+                "country": 'Hungary',
+                "field_num": 'test'
+            }
+
         ],
-        colorByPoint: false
+        "colorByPoint": false
     },
     {
-         name: 'CN',
-        data: [
-            { x: 95, y: 95, z: 0, name: 'BE', country: 'Belgium', field_num: 'test', color: '#ff33ff' },
-            { x: 86.5, y: 99.9, z: 0, name: 'BE', country: '6825586000:00:001', field_num: '6825586000:00:001', color : '#BF0B23 ' }
+        "name": 'CN',
+        "data": [{
+                "x": 95,
+                "y": 95,
+                "z": 0,
+                "name": 'BE',
+                "country": 'Belgium',
+                "field_num": 'test',
+                "color": '#ff33ff'
+            },
+            {
+                "x": 86.5,
+                "y": 99.9,
+                "z": 0,
+                "name": 'BE',
+                "country": '6825586000:00:001',
+                "field_num": '6825586000:00:001',
+                "color": '#BF0B23 '
+            }
         ],
-        colorByPoint: false
+        "colorByPoint": false
     },
     {
-         name: 'CC',
-        data: [
-            { x: 107.1, y: 20.1, z: 0, name: 'BE', country: 'Germany', field_num: 'test', color : ' #ff33ff ' }
-        ],
-        colorByPoint: false
-    }]
+        "name": 'CC',
+        data: [{
+            "x": 107.1,
+            "y": 20.1,
+            "z": 0,
+            "name": 'BE',
+            "country": 'Germany',
+            "field_num": 'test',
+            "color": ' #ff33ff '
+        }],
+        "colorByPoint": false
+    }
+]
